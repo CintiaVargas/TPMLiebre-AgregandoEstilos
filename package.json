@@ -1,0 +1,23 @@
+{
+  "name": "tpmliebre-agregandoestilos",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CintiaVargas/TPMLiebre-AgregandoEstilos.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CintiaVargas/TPMLiebre-AgregandoEstilos/issues"
+  },
+  "homepage": "https://github.com/CintiaVargas/TPMLiebre-AgregandoEstilos#readme",
+  "keywords": [],
+  "description": "",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
