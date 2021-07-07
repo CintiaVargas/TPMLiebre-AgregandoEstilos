@@ -21,7 +21,7 @@ header img{
     margin-top: 400px;
 }
 header h3{
-    text-align: center;
+    margin-left: 23px;
     font-size: 12px;
 }
 header nav ul a{
@@ -44,7 +44,7 @@ header nav ul li i{
     color: white;
     padding: 8px;
     border-radius: 4px;
-    margin-left: 130px;
+    margin-left: 120px;
 
 }
 
